@@ -9,4 +9,4 @@ The main design principles are as follows:
 
 ## Examples
 
-![Main menu](https://i.imgur.com/FJnZVA8.mp4)
+![Main menu](https://i.imgur.com/FJnZVA8.gif)
