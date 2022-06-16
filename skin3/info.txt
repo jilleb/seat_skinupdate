@@ -1,0 +1,29 @@
+#Mon, 17 Jun 2019 20:41:03 +0200
+#SkinEditor: DEVELOPMENT/H29.344.66 (smurfette)
+#Mon Jun 17 20:40:11 CEST 2019
+layout.direction=LEFT_TO_RIGHT
+SkinShortVersion=SKIN_NEW_80_H-FUAWD2
+DefaultMenuMode=Grid
+SkinBuildHmiSoftwareVersion=BH29.344.66-201906171929
+Layout.CarLife.Canvas_Dimension.height=480
+SdsLanguageHash=H29.344.66
+Layout.AndroidAuto.Canvas_Dimension.width=800
+skin.modname=SKIN_NEW_80_H
+Layout.CarLife.Canvas_Dimension.width=800
+skin.name=SKIN_NEW_80_H
+Layout.AndroidAuto.Canvas_Dimension.height=480
+SkinSkinFileVersion=SKIN_NEW_80_H_911
+SpfName=SEAT_HIGH_SKIN_NEW_80_H.spf
+SupportedLanguages=en_DE,de_DE,en_GB,fr_FR,it_IT,es_ES,cs_CZ,nl_NL,pt_PT,ru_RU,sv_SE,tr_TR,pl_PL,no_NO,en_US,pt_BR,es_MX,ja_JP,ko_KR,fr_CA,zh_CN,zh_TW,zh_HK,zh_MO,da_DK,el_GR,hr_HR,hu_HU,fi_FI,bs_BA,ro_RO,sk_SK,sl_SI,sr_RS,bg_BG,lv_LV,et_EE,lt_LT,uk_UA,en_SA
+Layout.Mirrorlink.Canvas_Dimension.width=800
+SkinVersion=BH29.344.66-201906171929-MSH29.344.42-29.49BF4/H29.49.2_Skinner-SKIN_NEW_80_H_911
+Layout.Mirrorlink.Canvas_Dimension.height=480
+SkinBrand=4
+Layout.Carplay.Canvas_Dimension.height=480
+TranslationDate=MIB_SEAT_2718_High_80_H29.315.4_v51 \r\nModel H29.344.42_v5
+UserSwitchableMenuMode=true
+skin.displayname=SEAT_HIGH_SKIN_NEW_80_H
+Layout.Carplay.Canvas_Dimension.width=800
+internal.skin.name=SKIN_NEW_80_H
+SkinSkinModelVersion=MSH29.344.42
+SkinSEVersion=29.49BF4/H29.49.2_Skinner
